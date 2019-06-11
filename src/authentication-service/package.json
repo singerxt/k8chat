@@ -1,0 +1,14 @@
+{
+  "name": "authentication-service",
+  "version": "0.0.1",
+  "description": "Authentication provider for k8chat",
+  "main": "index.js",
+  "author": "Mateusz Spiewak",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^2.4.1"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
