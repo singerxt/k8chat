@@ -1,0 +1,7 @@
+{
+  "name": "chat-private-room-service",
+  "version": "0.0.1",
+  "description": "Private room provider for k8chat",
+  "main": "index.js",
+  "license": "MIT"
+}
